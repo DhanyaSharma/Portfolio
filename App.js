@@ -43,7 +43,7 @@ function App() {
           <div className="project-card">
             <h3>Portfolio</h3>
             <p>React JS</p>
-            <a href="https://github.com/DhanyaSharma/HospitalDonationPage" target="_blank" rel="noopener noreferrer">
+            <a href="https://https://github.com/DhanyaSharma/Portfolio" target="_blank" rel="noopener noreferrer">
               View on GitHub
             </a>
           </div>
