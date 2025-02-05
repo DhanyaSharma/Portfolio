@@ -10,7 +10,7 @@ function App() {
         <p>Hi, I'm Dhanya Sharma – A Software Engineer</p>
         {/* Resume Download Section */}
       <section className="resume">
-      <a href="/DHANYA_resume.pdf" download>
+      <a href="/Dhanya-resume.pdf" download>
           <button className="download-btn">Download Resume</button>
         </a>
       </section>
