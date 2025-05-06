@@ -16,7 +16,7 @@ function App() {
       </section>
      
         <p>
-        Engineering student skilled in web development,proficient in C++ and Python. Multilingual in English, Hindi, and German, with a passion for building 
+        Engineering student skilled in web development,proficient in Java and Python. With a passion for building 
         innovative solutions and collaborating in diverse teams.I love building
         user-friendly, responsive web applications and always strive to improve my skills.
         </p>
@@ -31,7 +31,7 @@ function App() {
           <li>HTML & CSS</li>
           <li>Node.js</li>
           <li>Git/GitHub</li>
-          <li>C++</li>
+          <li>Python</li>
         </ul>
       </section>
 
@@ -39,7 +39,14 @@ function App() {
       <section className="section">
         <h2>My Projects</h2>
         <div className="projects">
-          
+        
+          <div className="project-card">
+            <h3>Page Clustering for medical reports</h3>
+            <p>Streamlit, Python and DBSCAN </p>
+            <a href="https://github.com/DhanyaSharma/page-clustering" target="_blank" rel="noopener noreferrer">
+              View on GitHub
+            </a>
+          </div>
           <div className="project-card">
             <h3>Portfolio</h3>
             <p>React JS</p>
