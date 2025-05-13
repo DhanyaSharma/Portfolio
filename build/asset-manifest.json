@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DhanyaSharma/Portfolio/static/css/main.a6b6a547.css",
+    "main.js": "/DhanyaSharma/Portfolio/static/js/main.3b5e467c.js",
+    "index.html": "/DhanyaSharma/Portfolio/index.html",
+    "main.a6b6a547.css.map": "/DhanyaSharma/Portfolio/static/css/main.a6b6a547.css.map",
+    "main.3b5e467c.js.map": "/DhanyaSharma/Portfolio/static/js/main.3b5e467c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b6a547.css",
+    "static/js/main.3b5e467c.js"
+  ]
+}
